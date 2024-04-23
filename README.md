@@ -1,5 +1,5 @@
-# Name
-To Do List 
+
+# To Do List 
 
 # Description
 This project is a to-do list website that was created using CSS for design, Node.js, Express.js, JavaScript, and a Postgresql database. You can edit, remove, and add items to your list of things to accomplish today. 
